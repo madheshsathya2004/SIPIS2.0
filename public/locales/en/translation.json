@@ -1,0 +1,12 @@
+{
+  "selectYear": "Select a Year",
+  "selectRegion": "Select a Region",
+  "selectLevel": "Select a Level",
+  "downloadReport": "Download Report",
+  "viewReport": "View Report",
+  "addField": "Add Field",
+  "applyFilter": "Apply Filter",
+  "revert": "Revert",
+  "search": "Search...",
+  "printResults": "Print Search Results"
+}
